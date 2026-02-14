@@ -1,0 +1,28 @@
+{
+  "name": "privacy-search-browser",
+  "version": "1.0.0",
+  "description": "A privacy-respecting web search and browsing application with DuckDuckGo integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node -c server.js && echo 'Syntax check passed'"
+  },
+  "keywords": [
+    "privacy",
+    "search",
+    "browser",
+    "duckduckgo",
+    "proxy",
+    "web-scraping"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/privacy-search-browser.git"
+  }
+}
