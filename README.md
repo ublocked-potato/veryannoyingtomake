@@ -12,10 +12,6 @@ A lightweight, privacy-respecting web search and browsing application with DuckD
 - 🌐 **Web Proxy** - Browse any website privately through the server
 - 🚫 **No Tracking** - Zero cookies, no analytics, no fingerprinting
 - ⚡ **Fast Caching** - 5-minute intelligent cache for repeat visits
-- 🎨 **Beautiful UI** - Clean, dark theme with smooth animations
-- 🔑 **Privacy Headers** - User-agent rotation and DNT headers
-- 📦 **Zero Dependencies** - Just Node.js built-in modules
-- 🚀 **Single File** - Entire app in one `server.js` file
 
 ## 🚀 Quick Start
 
